@@ -1,0 +1,68 @@
+{
+  "name": "Shreya Vinod Kumar",
+  "role": "AI & Web Developer",
+  "contact": {
+    "email": "shreyavinodkumar21@gmail.com",
+    "phone": "+91 99625 62491",
+    "github": "https://github.com/shreyavinodkumar21",
+    "linkedin": "https://linkedin.com/in/shreya-vinod-kumar-1b2660281/",
+    "location" : "Chennai, India"
+  },
+  "education": {
+    "college": "Hindustan Institute of Technology and Science",
+    "degree": "B.Tech — Computer Science",
+    "period": "Sep 2022 – May 2026",
+    "cgpa": "9.42"
+  },
+  "skills": [
+    "Python",
+    "LangChain",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "MySQL",
+    "Streamlit",
+    "Git",
+    "Github"
+  ],
+  "projects": [
+    {
+      "title": "Moodly — AI-Powered Mental Wellness Website",
+      "description": "AI journaling & mood-tracking platform using LangChain and NLP for personalized insights, goal tracking and community chat.",
+      "stack": ["JavaScript", "HTML", "CSS", "LangChain", "Python"]
+    },
+    {
+      "title": "Medical Chatbot — AI-Based Medical Chatbot for Real-Time Healthcare Guidance",
+      "description": "Integrated LangChain with LLaMA3 to power medical query understanding, built MySQL-backed doctor database and a Streamlit UI.",
+      "stack": ["LangChain", "LLaMA3", "MySQL", "Streamlit", "Python"]
+    },
+    {
+      "title": "Avatar-Based AI Video Generation Platform",
+      "description": "Pipeline using open-source TTS, lip-sync and facial animation models for avatar-driven videos.",
+      "stack": ["TTS", "lip-sync", "Python"]
+    },
+    {
+      "title": "PDB Analyzer — IIT Madras Web Server",
+      "description": "Web-server to read PDB files and compute atom pair and triplet distances/angles for selected residues.",
+      "stack": ["Scientific computation", "Web server"]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Data and AI Intern — HTC Global Services",
+      "period": "June 2025 – July 2025",
+      "summary": "Researched open-source TTS, lip-sync and video generation models; designed a model stack."
+    },
+    {
+      "title": "Web Developer Intern — IIT Madras",
+      "period": "July 2023 – Aug 2023",
+      "summary": "Built a web-server for PDB analysis and implemented angle/distance calculations."
+    }
+  ],
+  "certifications": [
+    "NPTEL Soft Skill Development — 2023",
+    "Python (GUVI - IIT Madras) — 2024",
+    "Machine Learning (Udemy) — 2024",
+    "Innovating with Google Cloud AI (Simplilearn) — 2025"
+  ]
+}
